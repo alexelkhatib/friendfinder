@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/alexelkhatib/friendfinder/issues"
   },
-  "homepage": "https://github.com/alexelkhatib/friendfinder#readme"
+  "homepage": "https://github.com/alexelkhatib/friendfinder#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
 }
