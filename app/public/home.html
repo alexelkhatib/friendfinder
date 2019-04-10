@@ -16,11 +16,17 @@
 </head>
 <style>
 #jumbo {
-    background-color: slategray;
+    background-color: turquoise;
     color: azure;
 }
 #body {
     background-color: black;
+}
+#clicker {
+    background-color: slategray;
+}
+#feet {
+    color: white;
 }
 </style>
 <body id="body">
@@ -37,7 +43,7 @@
 
             <div>
                 <a href="/survey">
-                    <button type="button" class="btn btn-lg btn-primary">
+                    <button type="button" class="btn btn-lg btn-primary" id="clicker">
                         <h4>
                             <span class="glyphicon glyphicon-list-alt"></span> Go to Survey</h4>
                     </button>
@@ -46,7 +52,7 @@
 
         </div>
 
-        <footer class="footer">
+        <footer class="footer" id="feet">
             <div class="container">
                 <p>
                     <a href="/api/friends">API Friends List</a> |
