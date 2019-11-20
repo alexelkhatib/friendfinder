@@ -1,7 +1,7 @@
 # friendfinder
 NU BOOTCAMP HOMEWORK ASSIGNMENT 11
 
-Click here for the live app Heroku link
+ live app Heroku link not yet available
 
 --------------------------------------------------------
  
